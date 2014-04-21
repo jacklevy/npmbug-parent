@@ -1,0 +1,11 @@
+{
+    "name": "npmbug-parent"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+        "npmbug-childA": "git+ssh://git@github.com:jacklevy/npmbug-childA"
+      , "npmbug-childB": "git+ssh://git@github.com:jacklevy/npmbug-childB"
+    }
+  , "devDependencies": {
+    }
+}
